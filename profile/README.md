@@ -5,6 +5,7 @@
 ### Links
 
 - 🚀 [Main website](https://filearchitect.com)
+- [File Architect core package](https://github.com/filearchitect/filearchitect)
 - 📚 [Documentation](https://filearchitect.com/docs)
 - ✏️ [Forum](https://filearchitect.userjot.com/)
 - 💬 [Discord](https://discord.gg/H7DEkuAV)
@@ -15,7 +16,9 @@
 - [Blankfiles](https://github.com/filearchitect/blank-files)
 - [Blankfiles website](https://github.com/filearchitect/blankfiles-website)
 
-Create file and directory structures from simple text descriptions. Perfect for scaffolding projects, creating templates, and organizing files.
+## Whats is File Architect?
+
+File Architect is a syntax to create file and folder structures from plain text. There is a [mac app](https://filearchitect.com) available to get started quickly. If you prefer using it programmatically or with a command-line interface, you can use the [core package](https://github.com/filearchitect/filearchitect).
 
 ## Features
 
