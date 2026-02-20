@@ -6,7 +6,6 @@
 
 - 🚀 [Main website](https://filearchitect.com)
 - 📚 [Documentation](https://filearchitect.com/docs)
-- ✏️ [Forum](https://filearchitect.userjot.com/)
 - 📂 [Blankfiles.com](https://blankfiles.com)
 
 ### Repositories
